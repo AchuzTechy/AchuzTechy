@@ -8,7 +8,7 @@
 <h1 align="center">Hi 👋, I'm Achuz</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🦑 [**WhatsApp Me**](https://wa.me919074585482)
+- 🦑 [**WhatsApp Me**](https://wa.me/919074585482)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=achuztechy&label=Profile%20views&color=0e75b6&style=flat" alt="achuztechy" /> </p>
 
