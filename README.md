@@ -7,7 +7,8 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLSM.)](https://www.buymeacoffee.com/Achuztechyofc)
 <h1 align="center">Hi 👋, I'm Achuz</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/C3o9zECE8J8tiQJ26.")
+
+- 🦑 [**WhatsApp Me**](https://wa.me919074585482)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=achuztechy&label=Profile%20views&color=0e75b6&style=flat" alt="achuztechy" /> </p>
 
@@ -17,7 +18,7 @@
 
 - 🔭 I’m currently working on [AZModz](https://t.me/AZModz)
 
-- 🌱 I’m currently learning **Hacking**
+- 🌱 I’m currently learning [Hacking](https://wa.me/919074585482)
 
 - 👯 I’m looking to collaborate on [Camera 69](https://www.mediafire.com/file/rjuifubdnoh2dgy/Camera69_1.apk/file)
 
