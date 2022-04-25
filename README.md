@@ -22,7 +22,7 @@
 
 - 👯 I’m looking to collaborate on [Camera 69](https://www.mediafire.com/file/rjuifubdnoh2dgy/Camera69_1.apk/file)
 
-- 🤝 I’m looking for help with [Apps Development](https://www.mediafire.com/file/rjuifubdnoh2dgy/Camera69_1.apk/file)
+- 🤝 I’m looking for help with [AdYoutub](https://github.com/AchuzTechy/AdYoutub)
 
 - 👨‍💻 All of my projects are available at [https://t.me/AZModz](https://t.me/AZModz)
 
